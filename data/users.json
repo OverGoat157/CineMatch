@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Алексей",
+    "favorite_genre": "Фантастика",
+    "min_rating": 8.0
+  },
+  {
+    "id": 2,
+    "name": "Мария",
+    "favorite_genre": "Драма",
+    "min_rating": 7.5
+  }
+]

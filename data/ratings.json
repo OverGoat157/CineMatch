@@ -1,6 +1,9 @@
 [
   {
+    "id": 1,
     "movie_id": 1,
-    "score": 9
+    "user_id": 1,
+    "score": 9,
+    "is_cancelled": false
   }
 ]
